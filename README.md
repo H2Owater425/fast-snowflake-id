@@ -1,5 +1,5 @@
 <div align='center'>
-	<img src='.github/banner.png' alt='banner'/>
+	<img src='https://cdn.h2owr.xyz/images/fast-snowflake-id/banner.png' alt='banner'/>
 	<h3>Fast snowflake id generator for Node.js</h3>
 	<sup>I guess...?</sup>
   
