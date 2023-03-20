@@ -1,6 +1,7 @@
 <div align='center'>
-	<img src='https://cdn.h2owr.xyz/images/fast-snowflake-id/banner.png' alt='banner'/>
+	<img src='.github/banner.png' alt='banner'/>
 	<h3>Fast snowflake id generator for Node.js</h3>
+	<sup>I guess...?</sup>
   
   [![npm version](https://img.shields.io/npm/v/fast-snowflake-id?style=flat-square)](https://npmjs.org/package/fast-snowflake-id)
   [![npm type definition](https://img.shields.io/npm/types/fast-snowflake-id?style=flat-square)](https://npmjs.org/package/fast-snowflake-id)
