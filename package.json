@@ -1,0 +1,30 @@
+{
+  "name": "fast-snowflake-id",
+  "version": "1.0.0",
+  "description": "Fast snowflake id generator for Node.js",
+  "main": "library/index.js",
+  "scripts": {
+    "build": "tsc --project ./tsconfig.json && node ./after.js",
+    "dev": "ts-node-dev --rs --files test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H2Owater425/sflake.git"
+  },
+  "keywords": [
+    "unique",
+    "id",
+    "snowflake",
+    "twitter"
+  ],
+  "author": "H2Owater425 <h2o@h2owr.xyz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/H2Owater425/sflake/issues"
+  },
+  "homepage": "https://github.com/H2Owater425/sflake#readme",
+  "devDependencies": {
+    "terser": "^5.16.6",
+    "ts-node-dev": "^2.0.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"target": "es2020",
+		"module": "commonjs",
+		"outDir": "./library/",
+		"removeComments": true,
+		"strict": true,
+		"esModuleInterop": true,
+		"skipLibCheck": true,
+		"forceConsistentCasingInFileNames": true
+	},
+	"exclude": ["./node_modules/"],
+	"include": ["./source/index.ts", "library/index.d.ts"]
+}

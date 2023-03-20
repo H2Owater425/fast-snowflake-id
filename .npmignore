@@ -1,0 +1,15 @@
+# Sources
+source/
+
+# Github templetes
+.github/
+
+# Configs
+tsconfig.json
+tsconfig.build.json
+
+# Readme
+README.md
+
+# Build post-processor
+after.js
