@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/H2Owater425/sflake.git"
+    "url": "git+https://github.com/H2Owater425/fast-snowflake-id.git"
   },
   "keywords": [
     "unique",
@@ -20,9 +20,9 @@
   "author": "H2Owater425 <h2o@h2owr.xyz>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/H2Owater425/sflake/issues"
+    "url": "https://github.com/H2Owater425/fast-snowflake-id/issues"
   },
-  "homepage": "https://github.com/H2Owater425/sflake#readme",
+  "homepage": "https://github.com/H2Owater425/fast-snowflake-id#readme",
   "devDependencies": {
     "terser": "^5.16.6",
     "ts-node-dev": "^2.0.0"
